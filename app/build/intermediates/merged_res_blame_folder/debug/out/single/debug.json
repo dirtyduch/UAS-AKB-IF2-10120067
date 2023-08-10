@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_kotak_nama.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\kotak_nama.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_color_selector.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_fragment_info_slide2.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\fragment_info_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_icon_notes.png.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\icon_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_zulfa.jpeg.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\zulfa.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_action_profile.png.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_action_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_fragment_note.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_action_info.png.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\font_sedan.ttf.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\font\\sedan.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_item_note.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_fragment_info_slide1.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\fragment_info_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_box_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\box_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_action_note.png.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_action_note.png"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_baseline_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_baseline_arrow_right_24.xml"
+    },
+    {
+        "merged": "com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:/layout_activity_register.xml.flat",
+        "source": "com.ZulfaFirdaus_10120067_IF2.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_edit_note.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_add_note.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\font_scriptmt.ttf.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\font\\scriptmt.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-merged_res-53:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Zulfa Firdaus\\.gradle\\daemon\\8.0\\com.ZulfaFirdaus_10120067_IF2.app-main-55:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
